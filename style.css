@@ -1,0 +1,223 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+body{
+    background-color: #b6e2ff7a;
+    overflow: hidden;
+}
+
+.table{
+    text-align: center;
+    margin-left: 30rem;
+    font-size: 25px;
+    margin-left: 6rem;
+    margin-top: 9rem;
+    font-weight: 600;
+    font-family: monospace;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+    position: absolute;
+    left: 34rem;
+    bottom: 50rem;
+    color: #513d6e;
+    font-family: revert;
+
+    
+}
+#orange{
+    background-color: #ffab91;
+    transition: transform .2s;
+    cursor: pointer;
+}
+#orange:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+#orng{
+    background-color: #ffe0b2;
+    transition: transform .2s;
+    cursor: pointer;
+}
+#orng:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+#drkong{
+    background-color: #ffcc80 ;
+    transition: transform .2s;
+    cursor: pointer;
+}
+#drkong:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+#green{
+    background-color: #e8ed9a;
+    transition: transform .2s;
+    cursor: pointer;
+}
+#green:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+#purple{
+    background-color: #d3c6ea;
+    transition: transform .2s;
+    cursor: pointer;
+}
+#purple:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+#blue{
+    background-color: #b1e6fb;
+    transition: transform .2s;
+    cursor: pointer;
+}
+#blue:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+#drkgreen{
+    background-color: #a6d6a8;
+    transition: transform .2s;
+    cursor: pointer;
+}
+#drkgreen:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+#peach{
+    background-color: #ffced3;
+    transition: transform .2s;
+    cursor: pointer;
+}
+#peach:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+#white{
+    background-color:#f5f5f5 ;
+    transition: transform .2s;
+    cursor: pointer;
+}
+#white:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+
+#font{
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.alkali{
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 6rem;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: cursive;
+}
+.alkali li{
+    color: #418d43;
+}
+.alkali #meta{
+    color: #76c6e6;
+}
+.alkali #act{
+    color: #ffcc80;
+}
+.alkali li span{
+    color: black;
+}
+.alkali span:hover{
+    text-decoration: underline;   
+}
+.alk{
+    position: absolute;
+    margin-top: 2rem;
+    cursor: pointer;
+    margin-left: 25rem;
+    font-size: 20px;
+    font-family: cursive;
+}
+.alk li {
+    color: #f5b14a;
+}
+.alk #unk {
+    color: #6c757d;
+}
+.alk #reac {
+    color: #fd7e14;
+}
+.alk li span{
+    color: black;
+}
+.alk span:hover{
+    text-decoration: underline;   
+}
+.tran{
+    position: absolute;
+    margin-top: 2rem;
+    cursor: pointer;
+    margin-left: 50rem;
+    font-size: 20px;
+    font-family: cursive;
+}
+.tran li{
+    color: #f5b14a;
+}
+.tran #tran{
+    color: #7451b3;
+}
+.tran li span{
+    color: black;
+}
+
+.tran span:hover{
+    text-decoration: underline;   
+}
+.post{
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 75rem;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: cursive;
+}
+.post li{
+        color: #cbd359;
+}
+.post #post{
+        color: #fdaab4;
+}
+.post li span{
+        color: rgb(0, 0, 0);
+}
+.post span:hover{
+    text-decoration: underline;   
+}
+.post span:hover{
+    text-decoration: underline;   
+}
+
+#font{
+    color: black;
+    font-family: monospace;
+    font-weight: bold;
+}
